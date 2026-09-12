@@ -1,0 +1,19 @@
+﻿{
+  "name": "siraji",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Siraji - Islamic Inheritance (Faraid) & Property Distribution System",
+  "scripts": {
+    "dev": "D:\\stetups_install_directory\\flutter_sdk\\flutter\\bin\\flutter.bat run -d web-server --web-port=8080",
+    "dev:chrome": "D:\\stetups_install_directory\\flutter_sdk\\flutter\\bin\\flutter.bat run -d chrome",
+    "build:web": "D:\\stetups_install_directory\\flutter_sdk\\flutter\\bin\\flutter.bat build web"
+  },
+  "keywords": [
+    "flutter",
+    "siraji",
+    "faraid",
+    "islamic-inheritance"
+  ],
+  "author": "Siraji Team",
+  "license": "UNLICENSED"
+}
